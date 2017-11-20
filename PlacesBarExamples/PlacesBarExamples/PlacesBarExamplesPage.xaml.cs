@@ -5,7 +5,7 @@ namespace PlacesBarExamples
 {
 	public partial class PlacesBarExamplesPage : ContentPage
 	{
-		string GooglePlacesApiKey = Keys.ApiKey;  // Replace this with your api key
+		string GooglePlacesApiKey = "AIzaSyBP7aKu3LspVPmGCYmmcoURCAmpqtzzcvE";  // Replace this with your api key
 
 		public PlacesBarExamplesPage()
 		{
